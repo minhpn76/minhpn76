@@ -2,9 +2,10 @@
 
 #### 🧑🏻‍💻 &nbsp; About me
 
-- 💡 &nbsp; Explore new technologies and develop web software solutions
-- 🎓 &nbsp; Fullstack Developer at Tinhvan Outsourcing JSC. (TVO)
-- 💼 &nbsp; Learning and working with web and mobile technologies
+- 💡 &nbsp;Explore new technologies and develop web software solutions
+- 🎓 &nbsp;Software Developer at Tinhvan Software Joint Stock Company, (TSO.,JSC)
+- 💼 &nbsp;Learning and working with web and mobile technologies
+- ⚡ &nbsp;Dev motto <code>First do it, then do it right, then do it better.</code>
 
 #### 💻 &nbsp; Tech Stack
 
@@ -22,7 +23,6 @@
 
   <code><img src="./assets/express.png" alt="ExpressJS" height="20px" /></code>
   <code><img src="./assets/django.png" alt="Django" height="20px" /></code>
-  <code><img src="./assets/nestjs.svg" alt="NestJS" height="20px" /></code>
   <code><img src="./assets/laravel.png" alt="Larvel" height="20px" /></code>
 
   <code><img src="./assets/react.svg" alt="ReactJS" height="20px" /></code>
