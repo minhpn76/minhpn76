@@ -2,8 +2,8 @@
 
 #### 🧑🏻‍💻 &nbsp; About me
 
+- 🎓 &nbsp;Software Developer
 - 💡 &nbsp;Explore new technologies and develop web software solutions
-- 🎓 &nbsp;Software Developer at Tinhvan Software Joint Stock Company, (TSO.,JSC)
 - 💼 &nbsp;Learning and working with web and mobile technologies
 - ⚡ &nbsp;Dev motto <code>First do it, then do it right, then do it better.</code>
 
@@ -20,9 +20,10 @@
   <code><img src="./assets/sass.svg" alt="SASS/SCSS" height="20px" /></code>
 
 - Frameworks and libraries
-
-  <code><img src="./assets/express.png" alt="ExpressJS" height="20px" /></code>
+- 
+  <code><img src="./assets/nestjs.svg" alt="NestJS" height="20px" /></code>
   <code><img src="./assets/django.png" alt="Django" height="20px" /></code>
+  <code><img src="./assets/express.png" alt="ExpressJS" height="20px" /></code>
   <code><img src="./assets/laravel.png" alt="Larvel" height="20px" /></code>
 
   <code><img src="./assets/react.svg" alt="ReactJS" height="20px" /></code>
@@ -52,5 +53,4 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=minhpn76&show_icons=true&theme=vue-dark&&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhpn76&layout=compact&theme=vue-dark"/>
 </div>
